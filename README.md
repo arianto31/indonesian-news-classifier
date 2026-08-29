@@ -1,5 +1,7 @@
 # 📰 Indonesian News Classification — Dashboard
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+
 A Streamlit dashboard for presenting the complete Indonesian news topic classification pipeline:
 
 **data cleaning → EDA → model performance**, along with a real-time news category prediction feature.
