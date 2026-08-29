@@ -1,6 +1,6 @@
 # 📰 Indonesian News Classification — Dashboard
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://indonesian-news-classifier.streamlit.app/)
 
 A Streamlit dashboard for presenting the complete Indonesian news topic classification pipeline:
 
